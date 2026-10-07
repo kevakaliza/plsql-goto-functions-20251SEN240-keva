@@ -1,0 +1,5 @@
+*.log
+*.lst
+*.bak
+*.tmp
+Thumbs.db
